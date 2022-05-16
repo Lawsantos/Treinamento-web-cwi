@@ -1,0 +1,21 @@
+export const ELEMENTS = {    
+    inputCustomerFirstName: '#customer_firstname',
+    inputCustomerLastName: '#customer_lastname',
+    inputEmail: '#email',
+    inputPassword: '#passwd',
+    selectBirthDay: '#days',
+    selectBirthMonth: '#months',
+    selectBirthYear: '#years',    
+    inputFirstName: '#firstname',
+    inputLastName: '#lastname',
+    inputCompany : '#company',
+    inputAddress1: '#address1',
+    inputCity: '#city',
+    selectState: '#id_state',
+    selectCountry : '#id_country',
+    textArea : '#other',
+    inputPostCode: '#postcode',
+    inputPhoneMobile: '#phone_mobile',
+    inputAlias: '#alias',
+    buttonSubmitAccount: '#submitAccount > span'
+}
